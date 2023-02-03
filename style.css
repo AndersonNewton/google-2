@@ -1,0 +1,47 @@
+.heading{
+
+width:80%;
+font-size: 56.3px;
+}
+
+body{
+
+background-color:skyblue;
+
+}
+
+.bold{
+
+font-size: 26.74;
+color:cornflowerblue;
+
+}
+
+
+#div_1{
+
+    width:80%;
+
+}
+#test_lab{
+
+float:left;
+
+}
+#img_test{
+
+
+    float:left;
+
+}
+#google_1{
+
+    margin-right: 15px;
+    
+
+}
+#mobile_1{
+
+    margin-left:15px;
+
+}
